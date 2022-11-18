@@ -16,9 +16,7 @@ export default function Home({ title = 'React Avançado!' }: Props) {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">React Avançado!!</a>
-        </h1>
+        <h1 className={styles.title}>React Avançado!!</h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
