@@ -1,0 +1,7 @@
+{
+  "presets": [
+    "next/babel",
+    "@babel/preset-typescript"
+  ],
+  "plugins": ["module:@babel/plugin-transform-typescript"]
+}
